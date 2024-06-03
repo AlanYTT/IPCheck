@@ -15,4 +15,5 @@ pkg install nodejs
 pkg install git
 git clone https://github.com/AlanYTT/IPCheck.git
 cd IPCheck
+npm install
 node IP.js
