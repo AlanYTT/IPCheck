@@ -36,7 +36,7 @@ try {
     };
     getIPInfo();
 
-    // bro no robes código es malo>
+    // bro no robes código es  malo>
 
   }
 
