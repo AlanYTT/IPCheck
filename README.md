@@ -1,30 +1,30 @@
-# IPCheck
+IPCheck
 Este es un script creado educacionalmente por mí para ver la IP numérica de servidores!
 
-# Instalarlo
+Instalarlo
 
 <details>
   <summary>Ver comandos de instalación</summary>
   <p>
 
 ```bash
-# Actualizar el paquete
+Actualizar el paquete
 apt update
 
-# Actualizar e instalar paquetes
+Actualizar e instalar paquetes
 apt upgrade
 
-# Instalar Node.js
+Instalar Node.js
 pkg install nodejs
 
-# Instalar Git
+Instalar Git
 pkg install git
 
-# Clonar el repositorio
+Clonar el repositorio
 git clone https://github.com/AlanYTT/IPCheck.git
 
-# Navegar al directorio del repositorio
+Navegar al directorio del repositorio
 cd IPCheck
 
-# Ejecutar el script
+Ejecutar el script
 node IP.js
